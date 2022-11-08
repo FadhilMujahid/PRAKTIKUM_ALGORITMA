@@ -1,5 +1,3 @@
-//Fadhil Mujahid
-//Informatika 22
 #include <iostream>
 #include <string>
 using namespace std;
